@@ -113,6 +113,7 @@ function Page6(): JSX.Element {
             <Typography
               component='div'
               variant='body1'
+              display="inline"
               sx={{ mt: 5, mb: 1 }}
               onClick={() => {
                 window.open(`https://testnet.symbol.fyi/transactions/${hash}`, '_blank');
