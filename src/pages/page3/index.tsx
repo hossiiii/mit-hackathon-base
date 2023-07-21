@@ -124,7 +124,7 @@ function Page3(): JSX.Element {
               component='div'
               variant='body1'
               display="inline"
-              sx={{ mt: 5, mb: 1 }}
+              sx={{ mt: 5, mb: 1 ,textDecoration: 'underline',cursor: 'pointer'}}
               onClick={() => {
                 window.open(`https://testnet.symbol.fyi/transactions/${hash}`, '_blank');
               }}
