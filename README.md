@@ -4,7 +4,7 @@
 
 ## デモ URL
 
-あとで
+https://mit-hackathon-base.vercel.app/
 
 ## 開発環境構築手順
 
