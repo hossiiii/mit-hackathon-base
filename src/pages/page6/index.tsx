@@ -106,7 +106,7 @@ function Page6(): JSX.Element {
               setDialogMessage('クライアントから管理者へメッセージを送信しますか？');
               setOpenDialogSendMessage(true);
             }}
-          >
+          > 
             送信
           </Button>
           {hash !== '' ? (
